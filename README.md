@@ -11,5 +11,20 @@ Este projeto é um programa em Python que calcula a média de três notas inseri
 
 ## Como Usar
 1. Clone o repositório:
-   ```bash
+
    git clone https://github.com/seuusuario/nome-do-repositorio.git
+2. Navegue até o diretório do projeto:
+   cd nome-do-repositorio
+3. Execute o script:
+   python calculo_media.py
+   4. Insira as três notas quando solicitado.
+      Exemplo de Uso
+      Digite a nota 1: 8.5
+Digite a nota 2: 7.0
+Digite a nota 3: 9.2
+A média das notas é: 8.23
+Python 3.x
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+
